@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="MainWindow">
+    <Position X="16.25" Y="15.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>MainWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StyleWindow">
+    <Position X="23.5" Y="2" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEAAAEAAAAAAKAAEiAAJAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Styles.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowData">
+    <Position X="19.75" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYgAEBMAAAUAQAKAEIAABIAAAAAEAAAAACEAAAAA=</HashCode>
+      <FileName>WindowData.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeItemInformation">
+    <Position X="12.75" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAICABAACAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WindowInformation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeWindow">
+    <Position X="12" Y="9" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAIABAAIAAAAABIAgAAAAAAAAAAACAAAAAAg=</HashCode>
+      <FileName>WindowInformation.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowProcesses">
+    <Position X="21" Y="15.5" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>WindowProcesses.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Window">
+    <Position X="19.75" Y="7.5" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>BAAEAkAIAMSAAAgAAQAABAAAATAAAAQAABAAyCAAAAA=</HashCode>
+      <FileName>Window.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Control">
+    <Position X="4.75" Y="0.75" Width="11.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAcAESAABCAASAAEAAAABAAQAEAAQAAgCAgAAA=</HashCode>
+      <FileName>Control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Combobox">
+    <Position X="0.5" Y="12.75" Width="10.25" />
+    <InheritanceLine Type="Control" ManuallyRouted="true">
+      <Path>
+        <Point X="10.375" Y="6.151" />
+        <Point X="10.375" Y="7.067" />
+        <Point X="11.414" Y="7.067" />
+        <Point X="11.414" Y="12.576" />
+        <Point X="5.625" Y="12.576" />
+        <Point X="5.625" Y="12.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAECAAAAAAAAAAAAAAAAAEAAQ=</HashCode>
+      <FileName>Control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Label">
+    <Position X="0.5" Y="15.75" Width="10.25" />
+    <InheritanceLine Type="Control" ManuallyRouted="true">
+      <Path>
+        <Point X="10.375" Y="6.151" />
+        <Point X="10.375" Y="7.125" />
+        <Point X="11.421" Y="7.125" />
+        <Point X="11.421" Y="15.45" />
+        <Point X="5.625" Y="15.45" />
+        <Point X="5.625" Y="15.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TreeView">
+    <Position X="0.5" Y="18" Width="10.25" />
+    <InheritanceLine Type="Control" ManuallyRouted="true">
+      <Path>
+        <Point X="10.375" Y="6.151" />
+        <Point X="10.375" Y="7.125" />
+        <Point X="11.416" Y="7.125" />
+        <Point X="11.416" Y="17.76" />
+        <Point X="5.625" Y="17.76" />
+        <Point X="5.625" Y="18" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gEAAAAAAACAAEAAAAAAAAAAAAAAAgAABAAAAAAIABAA=</HashCode>
+      <FileName>Control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextBox">
+    <Position X="0.5" Y="7.5" Width="10" />
+    <InheritanceLine Type="Control" ManuallyRouted="true">
+      <Path>
+        <Point X="10.375" Y="6.151" />
+        <Point X="10.375" Y="7.125" />
+        <Point X="5.5" Y="7.125" />
+        <Point X="5.5" Y="7.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAACACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListBox">
+    <Position X="0.5" Y="10" Width="10" />
+    <InheritanceLine Type="Control" ManuallyRouted="true">
+      <Path>
+        <Point X="10.375" Y="6.151" />
+        <Point X="10.375" Y="7.093" />
+        <Point X="11.426" Y="7.093" />
+        <Point X="11.426" Y="9.826" />
+        <Point X="5.5" Y="9.826" />
+        <Point X="5.5" Y="10" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAACAIAAA=</HashCode>
+      <FileName>Control.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="DialogTab">
+    <Position X="12" Y="14.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAgAAgI=</HashCode>
+      <FileName>Styles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StyleLookupType">
+    <Position X="12" Y="12.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Styles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="StyleLookupEx">
+    <Position X="14" Y="14.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAEAAAAAAABAAgAAAA=</HashCode>
+      <FileName>Styles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ClassStyleLookup">
+    <Position X="14" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAABAAAAAAAAAQAA=</HashCode>
+      <FileName>Styles.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

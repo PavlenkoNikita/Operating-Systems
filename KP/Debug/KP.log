@@ -1,0 +1,15 @@
+﻿  Control.cpp
+  Main.cpp
+d:\программы\2019\operating systems(kp)\kp\kp\mainwindow.h(9): warning C4091: static : пропускается слева от "MainWindow", когда ни одна переменная не объявлена
+d:\программы\2019\operating systems(kp)\kp\kp\windowprocesses.h(8): warning C4091: static : пропускается слева от "WindowProcesses", когда ни одна переменная не объявлена
+  MainWindow.cpp
+d:\программы\2019\operating systems(kp)\kp\kp\mainwindow.h(9): warning C4091: static : пропускается слева от "MainWindow", когда ни одна переменная не объявлена
+d:\программы\2019\operating systems(kp)\kp\kp\windowprocesses.h(8): warning C4091: static : пропускается слева от "WindowProcesses", когда ни одна переменная не объявлена
+d:\программы\2019\operating systems(kp)\kp\kp\mainwindow.cpp(24): warning C4018: <: несоответствие типов со знаком и без знака
+  WindowInformation.cpp
+d:\программы\2019\operating systems(kp)\kp\kp\mainwindow.h(9): warning C4091: static : пропускается слева от "MainWindow", когда ни одна переменная не объявлена
+d:\программы\2019\operating systems(kp)\kp\kp\windowprocesses.h(8): warning C4091: static : пропускается слева от "WindowProcesses", когда ни одна переменная не объявлена
+d:\программы\2019\operating systems(kp)\kp\kp\windowinformation.cpp(28): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note:  см. объявление "sprintf"
+  Создание кода...
+  KP.vcxproj -> D:\Программы\2019\Operating Systems(KP)\KP\Debug\KP.exe
